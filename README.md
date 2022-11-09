@@ -7,7 +7,7 @@ Thank you for taking an interest in my proyect 🙂
 
 Here I've worked with:
 
-Python 🐍  ·  Sqlite3 🔍  ·  Pandas 🐼  ·  SciKitLearn 🥼  ·  NLTK  📖 .  Regex  💬 · WordCloud 🌥 · TextBlob 🆎 · Flask 🦏  ·  AWS 🔶
+Python 🐍  ·  Sqlite3 🔍  ·  Pandas 🐼  ·  SciKitLearn 🥼  ·  NLTK  📖 .  Regex  💬 · WordCloud 🌥 · TextBlob 🆎 
 
 I hope you enjoy my work as I have while doing it!
 
@@ -23,22 +23,8 @@ The client @TheBridge_Tech wants to develop a social media monitoring to measure
 2. To store them in an SQL database in 2 normalized tables (tweets, users).
 
 3. To perform a business analysis.
-<!-- a. What is the tweet with the greatest social impact?
-b. Which user mentions the school the most?
-c. In which month is the greatest number of tweets concentrated?
-d. Which words are more frequent?
-e. What kind of mathematical correlation do you find between public metrics?
-f. Have you drawn any extra conclusions in your analysis? -->
 
-4. To determine the sentiment of the tweets, and find with NLP hte most relevant words, hashtags, phrases...
-
-<!-- a. What are the predictions? Interpret the results.
-b. Which variables are the most important in the model?
-c. How could you improve the model?
-d. What other opportunities can you think of where other
-ML models? -->
-
-5. To deploy the model with an endpoint where to be able to send you a body text and return the feeling prediction.
+4. To determine the sentiment of the tweets, and find with NLP hte most relevant hashtags, n-grams...
 
 
 
@@ -46,9 +32,7 @@ ML models? -->
 
  - scraping and storage in database: https://github.com/irene-glez/tweets-analysis-NLP/blob/main/src/notebooks/1.scraping_%26_storage.ipynb
  - business analysis: https://github.com/irene-glez/tweets-analysis-NLP/blob/main/src/notebooks/2.business_analysis.ipynb
- - sentiment analysis:
- - deployment: 
-
+ - sentiment determination and NLP analysis: https://github.com/irene-glez/tweets-analysis-NLP/blob/main/src/notebooks/3.NLP_analysis.ipynb
 
 
 Many Thanks!
