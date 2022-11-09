@@ -7,14 +7,14 @@ Thank you for taking an interest in my proyect 🙂
 
 Here I've worked with:
 
-Python 🐍  ·  Sqlite3 🔍  ·  Pandas 🐼  ·  SciKitLearn 🥼  ·  NLTK  📖 .  Regex  💬 ·  Flask 🦏  ·  AWS 🔶
+Python 🐍  ·  Sqlite3 🔍  ·  Pandas 🐼  ·  SciKitLearn 🥼  ·  NLTK  📖 .  Regex  💬 · WordCloud 🌥 · TextBlob 🆎 · Flask 🦏  ·  AWS 🔶
 
 I hope you enjoy my work as I have while doing it!
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Use case
-The client @TheBridge_Tech wants to develop a social media monitoring to measure the impact of the brand during the lapse of a bootcamp, in order to develop commercial actions.
+The client @TheBridge_Tech wants to develop a social media monitoring to measure the impact of the brand during the lapse of a bootcamp, in order to design commercial actions.
 
 
 ### I've perform the following tasks:
@@ -30,7 +30,7 @@ d. Which words are more frequent?
 e. What kind of mathematical correlation do you find between public metrics?
 f. Have you drawn any extra conclusions in your analysis? -->
 
-4. To use a pre-trained model to determine the sentiment of tweets.
+4. To determine the sentiment of the tweets, and find with NLP hte most relevant words, hashtags, phrases...
 
 <!-- a. What are the predictions? Interpret the results.
 b. Which variables are the most important in the model?
@@ -44,8 +44,8 @@ ML models? -->
 
 # Do you want to discover more? 
 
- - scraping and storage in database: 
- - business analysis:
+ - scraping and storage in database: https://github.com/irene-glez/tweets-analysis-NLP/blob/main/src/notebooks/1.scraping_%26_storage.ipynb
+ - business analysis: https://github.com/irene-glez/tweets-analysis-NLP/blob/main/src/notebooks/2.business_analysis.ipynb
  - sentiment analysis:
  - deployment: 
 
