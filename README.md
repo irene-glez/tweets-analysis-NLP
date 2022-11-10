@@ -24,7 +24,7 @@ The client @TheBridge_Tech wants to develop a social media monitoring to measure
 
 3. Business analysis.
 
-4. To determine the sentiment of the tweets, and find with NLP hte most relevant hashtags, n-grams...
+4. To determine the sentiment of the tweets, NER, and find with NLP the most relevant hashtags, n-grams...
 
 5. Deloyment of a Flask API with a pretrained model to consult the predictions for new tweets.
 
