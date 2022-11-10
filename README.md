@@ -18,6 +18,9 @@ The client @TheBridge_Tech wants to develop a social media monitoring to measure
 
 
 ### I've perform the following tasks:
+
+0. Modeling with a Corpus os Tweets in Spanish
+
 1. Collection of the tweets where the @TheBridge_Tech account is mentioned from the first day of the bootcamp (13 June) until the last day of class (5 October).
 
 2. Storage in an SQL database in 2 normalized tables (tweets, users).
@@ -30,6 +33,7 @@ The client @TheBridge_Tech wants to develop a social media monitoring to measure
 
 # Do you want to discover more? 
 
+ - model training:
  - scraping and storage in database: https://github.com/irene-glez/tweets-analysis-NLP/blob/main/src/notebooks/1.scraping_%26_storage.ipynb
  - business analysis: https://github.com/irene-glez/tweets-analysis-NLP/blob/main/src/notebooks/2.business_analysis.ipynb
  - sentiment determination and NLP analysis: https://github.com/irene-glez/tweets-analysis-NLP/blob/main/src/notebooks/3.NLP_analysis.ipynb
