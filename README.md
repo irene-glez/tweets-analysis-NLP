@@ -8,7 +8,7 @@ Thank you for taking an interest in my proyect 🙂
 
 Here I've worked with:
 
-Python 🐍 · Sqlite3 🔍 · Pandas 🐼 · SciKitLearn 🥼 · NLTK 📖 · Regex 💬 · WordCloud 🌥 · TextBlob 🆎 · Flask 🦏 · Postman 🐱‍🏍
+Python 🐍 · Sqlite3 🔍 · Pandas 🐼 · SciKitLearn 🥼 · NLTK 📖 · Regex 💬 · WordCloud 🌥 · TextBlob 🆎 · Flask 🦏 · Postman 🐱‍🏍 ·  Pythonanywhere
 
 I hope you enjoy my work as I have while doing it!
 
@@ -30,7 +30,7 @@ The client @TheBridge_Tech wants to develop a social media monitoring to measure
 
 4. To determine the sentiment of the tweets, NER, and find with NLP the most relevant hashtags, n-grams...
 
-5. Deloyment of a Flask API with the model and the database to easily consult the predictions for new tweets.
+5. Deloyment of a Flask API with the model and the database to easily access the predictions for new tweets.
 
 # Do you want to discover more? 
 
