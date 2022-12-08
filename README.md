@@ -1,6 +1,6 @@
 # tweets-analysis-NLP and APi deployment
 Use case of a client (@TheBridge_Tech) who wants to develop a social media monitoring to measure the impact of the brand and develop commercial actions.
-(API, MLOps)
+(API, NLP, MLOps)
 
 ### Welcome!
 
@@ -10,12 +10,10 @@ Here I've worked with:
 
 Python 🐍 · Sqlite3 🔍 · Pandas 🐼 · SciKitLearn 🥼 · NLTK 📖 · Regex 💬 · WordCloud 🌥 · TextBlob 🆎 · Flask 🦏 · Postman 🐱‍🏍 ·  Pythonanywhere
 
-I hope you enjoy my work as I have while doing it!
-
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Use case
-The client @TheBridge_Tech wants to develop a social media monitoring to measure the impact of the brand during the lapse of a bootcamp, in order to design commercial actions.  NLP, MLOps
+The client @TheBridge_Tech wants to develop a social media monitoring to measure the impact of the brand during the lapse of a Bootcamp, in order to design commercial actions.
 
 
 ### I've perform the following tasks:
