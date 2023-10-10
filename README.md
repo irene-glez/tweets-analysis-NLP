@@ -3,7 +3,7 @@ Use case of a client (@TheBridge_Tech) who wants to develop a social media monit
 (API, NLP, MLOps)
 
 ### Welcome!
-
+ 
 Thank you for taking an interest in my proyect 🙂
  
 Here I've worked with:
